@@ -43,15 +43,7 @@ function timer()
             hr = "0" + hr;
         }
         
-
-
-
-
-
-
-        
         stopwatch.innerHTML =hr + ":" + min + ":" + s;
-
 
 
         setTimeout("timer()",1000);
