@@ -23,7 +23,7 @@ function timer()
         hr =parseInt(hr);
         s++;
         if(s==60)
-        {
+        { 
             s = 0;
             min++;
         }
