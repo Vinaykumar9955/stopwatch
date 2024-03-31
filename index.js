@@ -54,6 +54,7 @@ function stop()
 {
     isStop=true;
 }
+//Reset timer
  function reset()
  {
     isStop = true;
